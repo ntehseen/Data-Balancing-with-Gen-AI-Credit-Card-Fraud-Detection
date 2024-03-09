@@ -1,4 +1,3 @@
-Certainly! Below is the README.md file generated from your provided code:
 
 ```markdown
 # SecureTrust Financial Services: Fraud Detection using Generative Adversarial Networks (GANs)
