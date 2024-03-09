@@ -1,5 +1,4 @@
 
-```markdown
 # SecureTrust Financial Services: Fraud Detection using Generative Adversarial Networks (GANs)
 
 ![Title Image Placeholder](title_image_placeholder.png)
