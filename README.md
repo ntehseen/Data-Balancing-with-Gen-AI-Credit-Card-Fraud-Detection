@@ -13,6 +13,8 @@ The deployment of AI/ML-powered fake news detection holds immense value for both
 
 Throughout this case study, we will delve into the analysis of thousands of news articles, employing advanced NLP techniques to classify them as either genuine or fake. By leveraging the power of Recurrent Neural Networks, we endeavor to contribute to the ongoing efforts in combating the spread of misinformation and promoting information integrity.
 
+* Accuracy Score for Generative AI: 0.936
+
 ## Project Outline
 
 - Load the Dataset
@@ -191,6 +193,7 @@ Calculate the accuracy score for Generative AI:
 # Calculate accuracy score for Generative AI
 ...
 ```
+Accuracy Score for Generative AI: 0.936
 
 ## Conclusion
 
