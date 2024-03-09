@@ -110,7 +110,7 @@ df.head()
 
 Use a scatter plot to visualize the data:
 
-![PCA Scatter Plot Placeholder](pca_scatter_plot.png)
+![PCA Scatter Plot Placeholder](output.png)
 
 ## Building the Generator Model
 
@@ -197,5 +197,3 @@ Calculate the accuracy score for Generative AI:
 In this project, we have demonstrated the application of Generative Adversarial Networks (GANs) in fraud detection, specifically in generating synthetic fraudulent transactions to balance imbalanced datasets. By leveraging advanced techniques in machine learning and neural networks, we aim to enhance the accuracy and effectiveness of fraud detection systems, contributing to a safer and more secure financial environment.
 
 ```
-
-This README.md provides a comprehensive overview of your project, including an introduction, project outline, code snippets, visualizations, and conclusions. You can replace the placeholders with actual images once you generate
