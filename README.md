@@ -1,5 +1,5 @@
 
-# SecureTrust Financial Services: Fraud Detection using Generative Adversarial Networks (GANs)
+# Fraud Detection using Generative Adversarial Networks (GANs)
 
 ![Credit Card Fraud Detection using Generative Ai](cred_fraud.jpg)
 
