@@ -5,13 +5,7 @@
 
 ## Introduction
 
-In today's world, the proliferation of misinformation and fake news poses a significant challenge. The aim of this practical project is to combat this issue by developing a fake news detection system based on Recurrent Neural Networks (RNNs).
-
-Natural Language Processing (NLP) serves as the foundation of this endeavor, operating by transforming textual information into numerical representations. These numerical embeddings are then utilized to train sophisticated Artificial Intelligence/Machine Learning (AI/ML) models capable of discerning the authenticity of news articles.
-
-The deployment of AI/ML-powered fake news detection holds immense value for both companies and media outlets, offering an automated solution to assess the veracity of circulating news stories swiftly and accurately.
-
-Throughout this case study, we will delve into the analysis of thousands of news articles, employing advanced NLP techniques to classify them as either genuine or fake. By leveraging the power of Recurrent Neural Networks, we endeavor to contribute to the ongoing efforts in combating the spread of misinformation and promoting information integrity.
+The project aims to explore the application of Generative Adversarial Networks (GANs) in fraud detection using credit card transaction data. By leveraging GANs, we seek to generate synthetic fraudulent transactions to address the challenge of imbalanced datasets commonly encountered in fraud detection tasks. The project involves several key steps, including data preprocessing, model architecture design, training and evaluation, and generation of synthetic data for analysis.
 
 * Accuracy Score for Generative AI: 0.936
 
